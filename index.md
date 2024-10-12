@@ -30,5 +30,5 @@ profile_picture:
 </p>
 
 <p>
-  Email: <a href="mailto:shy420@lehigh.edu" target="_blank">shy420@lehigh.edun</a>
+  Email: <a href="mailto:shy420@lehigh.edu" target="_blank">shy420@lehigh.edu</a>
 </p>
