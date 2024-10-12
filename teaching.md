@@ -4,10 +4,16 @@ title: Teaching
 slug: /Teaching
 ---
 
-<strong>Teaching Assistant, HSBC Business School, Peking University</strong>
+<strong>Adjunct Professor, Lehigh University</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">Theoretical Foundations of Banking (PhD, 2022-2023)  [<a href="./assets/banking_phd_syll.pdf" target="_blank">Syllabus</a>]</li>
-<li style="list-style-type:circle;font-size:14px">Household Finance (Master, 2020-2022)  [<a href="./assets/household_finance_syll.pdf" target="_blank">Syllabus</a>]</li>
-<li style="list-style-type:circle;font-size:14px">Monetary Economics (PhD, 2023-2024)  [<a href="./assets/monetary_economics_phd_syll.pdf" target="_blank">Syllabus</a>]</li>
+<li style="list-style-type:circle;font-size:14px">MBA 440 Quantitative Methods (Summer 2023, Summer 2024) </li> 
+  
 </ul>
+
+<strong>Teaching Assistant, Lehigh University</strong>
+<ul>
+<li style="list-style-type:circle;font-size:14px">ECO 001 Principles of Econmics (Fall 2021 - Spring 2024) </li> 
+  
+</ul>
+
 
