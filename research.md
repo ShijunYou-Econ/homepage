@@ -7,7 +7,7 @@ jmp:
   - title: Job Market Paper 
     description: <strong>Communities in Action: Drug-Free Communities and Juvenile Drug Crime</strong> 
     authors: with Wei Fu and Shin-Yi Chou 
-    numbering: 
+    numbering: 1
     abstract: The Drug-Free Communities (DFC) Support Program, established in 1997 through the Drug-Free Communities Act, aims to mitigate substance use among youth. This study examines the impacts of the DFC granting on juveniles in the United States from 2008 to 2019. Using a difference-in-differences (DID) model exploiting the staggered grant allocation to communities, we find that the DFC grants significantly curtail juvenile drug-related criminal activities. The potential mechanisms include reductions in marijuana use and opioid-related inpatient stays and improved academic performance among juveniles. In the auxiliary analysis, we also find positive impacts of DFC grants on reducing juvenile property crime and drug-related mortality. This study, to our knowledge, marks the first attempt to causally identify the impacts of DFCs on community well-being. Our comprehensive evaluation offers insights into the significance of collective community action in combating substance use, particularly amid the recent opioid crisis.
 
 publica:
