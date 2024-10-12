@@ -4,7 +4,7 @@ title: Research
 slug: /Research
 
 JMP:
-- title: Job Market Paper 
+- title: Working Paper 
     description: <strong>Communities in Action: Drug-Free Communities and Juvenile Drug Crime</strong> 
     authors: with Wei Fu and Shin-Yi Chou 
     numbering: 
