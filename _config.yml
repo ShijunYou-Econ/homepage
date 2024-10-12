@@ -1,11 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Weimin Zhou
+title: Shijun You
 description: >- # this means to ignore newlines until "baseurl:"
-  Econ Ph.D Candidate, Peking University HSBC Business School
+  Econ Ph.D Candidate, Department of Economics, Lehigh University
 baseurl: "/homepage" # the subpath of the site
-url: "https://zhouweimin-econ.github.io" # the base hostname & protocol for the site
+url: "https://shijunyou.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-282664181-1"
 
@@ -20,8 +20,8 @@ footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: zhouweimin@stu.pku.edu.cn
-      link: mailto:zhouweimin@stu.pku.edu.cn
+      value: shy420@lehigh.edu
+      link: mailto:shy420@lehigh.edu
 
 # Build settings
 markdown: kramdown
