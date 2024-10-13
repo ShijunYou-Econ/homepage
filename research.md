@@ -4,7 +4,7 @@ title: Research
 slug: /Research
 
 jmp:
- - title: Job Market Paper 
+  - title: Job Market Paper 
     description: <strong>Banking Innovations in China&#58; Evidence and Welfare Implications</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617083" target="_blank">SSRN link</a>]  
     authors: with <a href = "https://sites.google.com/site/wangyicheng1192/" target="_blank">Yicheng Wang</a> and <a href = "https://xuzhiwei09.wixsite.com/econ/research" target="_blank">Zhiwei Xu</a> 
     numbering: 1
