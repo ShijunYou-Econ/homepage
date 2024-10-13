@@ -5,7 +5,7 @@ slug: /Research
 
 jmp:
   - title: Job Market Paper 
-    description: <strong>Communities in Action&#58; Evidence and Welfare Implications</strong>
+    description: <strong>Communities in Action&#58; Drug-Free Communities and Juvenile Drug Crime</strong>
     authors: with <a href = "https://sites.google.com/site/wangyicheng1192/" target="_blank">Yicheng Wang</a> and <a href = "https://xuzhiwei09.wixsite.com/econ/research" target="_blank">Zhiwei Xu</a> 
     numbering: 1
     coverage: Selected Presentations&#58; Peking University PHBS Macro-Finance Reading Group; 7th Peking-NUS Annual conference; Sargent Institute of Quantitative Economics and Finance Workshop; 6th China and Development Annual Conference (Shanghai Jiao Tong U) 2023; CICM 2023; CFRC 2023
