@@ -6,7 +6,7 @@ slug: /Research
 items:
   - title: Working Paper 
     description: <strong>Aslim, Erkmen G., Wei Fu, Erdal Tekin, and Shijun You. From syringes to dishes: Improving food security through vaccination. No. w31045. National Bureau of Economic Research, 2023. R&R to the Journal of Public Economics. </strong> [<a href="https://www.nber.org/papers/w31045" target="_blank">SSRN link</a>]  
-    authors: 
+    authors: hh
     numbering: 1
     abstract: This paper examines the impact of COVID-19 vaccination on food insufficiency in the United States, using data from the Household Pulse Survey. Our primary research design exploits variation in vaccine eligibility across states over time as an instrumental variable to address the endogeneity of vaccination decision. We find that vaccination had a substantial impact on food hardship by reducing the likelihood of food insufficiency by 24%, with even stronger effects among minority and financially disadvantaged populations. These results are robust to alternative specifications and the use of regression discontinuity as an alternative identification strategy. We also show that vaccine eligibility had a positive spillover impact on food assistance programs, notably reducing participation in the Supplemental Nutrition Assistance Program and the use of its benefits, suggesting that vaccination policies can help alleviate the government's fiscal burden during public health crises. Our analysis offers detailed insights into the potential mechanisms linking vaccination to food insufficiency. We demonstrate that vaccination yields changes in both material circumstances and financial expectations. Specifically, vaccination increases the use of regular income for spending needs and reduces reports of insufficient food due to unaffordability. Additionally, we find that vaccination improves financial optimism, reflected in expectations for future employment income loss and the ability to meet mortgage and debt obligations. Our findings are consistent with the notion that this optimism, along with labor market recovery, diminished the need for precautionary savings, reduced reliance on government assistance, and encouraged household spending on essential goods like food, ultimately lowering food insufficiency.
   - title: Working Paper
@@ -23,14 +23,14 @@ items:
 publica:
   - title:  Publication
     description: <strong>Bradford, Ashley C., Wei Fu, and Shijun You. "The Devastating Dance between Opioid and Housing Crises: Evidence from OxyContin Reformulation." Journal of Health Economics (2024): Forthcoming.</strong>  [<a href="https://www.sciencedirect.com/science/article/pii/S0167629624000754" target="_blank">pdf</a>]
-    authors: 
-    publication: 
+    authors: hh
+    publication: hh
     numbering: 2
     abstract: Housing instability and drug misuse are two of the United States’ most pressing challenges, each bearing profound health and societal consequences. A crucial yet largely underexplored question is the extent to which the opioid crisis has intensified housing instability. Our study ventures into this relatively uncharted nexus, investigating how the OxyContin reformulation, a pivotal moment in the U.S. opioid epidemic, impacted eviction rates. Employing a dose-response Difference-in-Differences model and analyzing eviction data from 2004 to 2016, we demonstrate that the OxyContin reformulation precipitated a significant increase in evictions, especially in areas with weak eviction protections or limited access to psychiatric treatment resources. Channel analyses reveal increased marijuana initiation and heightened mental and physical health issues following the reformulation. Moreover, the OxyContin reformulation leads to greater reliance on the Supplemental Nutrition Assistance Program, signaling an escalated financial strain on governmental resources. Finally, we find evidence of increased marital disruption post-reformulation. Our findings underscore the urgent need for collaborative efforts between public health and housing authorities to address both the opioid and housing crises. 
      - title:  Publication
     description: <strong>Huang, Chen, Feng Liu, and Shijun You. "The impact of minimum wage increases on cigarette smoking." Health Economics 30, no. 9 (2021): 2063-2091.</strong>  [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hec.4362" target="_blank">pdf</a>]
-    authors: 
-    publication: 
+    authors: hh
+    publication: hh
     numbering: 1
     abstract: Recent debate about raising federal minimum wage to $15 per hour receives substantial public attention. Yet the minimum wage literature has been
 focusing on the labor market outcomes, with the health implications rarely being discussed. This paper investigates the impact of minimum wage increases on multiple dimensions of cigarette smoking behaviors for the low‐skilled population using the Current Population Survey‐Tobacco Use Supplement over a long time period (1998–2015). Results show that a $1 increase in the minimum wage raises the prevalence of smoking by about 2.3% and reduces cessation by about 13.7% among the low‐skilled workers. With further examinations, we find evidence of an income effect as one potential mechanism that leads to more smoking. The impacts on all low‐skilled adults, however, are somewhat smaller, which are most likely driven by the null effects among those who are out of the labor force. We additionally conduct a series of sensitivity tests and confirm the robustness of these results.
