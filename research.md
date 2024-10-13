@@ -35,12 +35,11 @@ items:
 
 progress: 
   - title: Work in Progress
-    description: <strong>Effects of Medical Cannabidiols Legalization on Labor Market</strong> 
-    authors: With Shin-Yi Chou and Wei Fu
+    description: <strong>"Effects of Medical Cannabidiols Legalization on Labor Market."  (with Shin-Yi Chou and Wei Fu)</strong> 
     numbering: 1
+    abstract: 
   - title: Work in Progress
-    description: <strong>Racial Diversity and Prosocial Behaviors</strong>
-    authors: With Shin-Yi Chou and Wei Fu
+    description: <strong>"Racial Diversity and Prosocial Behaviors."  (with Shin-Yi Chou and Wei Fu)</strong>
     numbering: 2
 
 ---
