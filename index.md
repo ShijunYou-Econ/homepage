@@ -21,6 +21,9 @@ profile_picture:
   Link to: <a href="./assets/Shijun You - CV.pdf" target="_blank">CV</a>.
 </p>
 
+<p>
+  Advisor: <a href="https://business.lehigh.edu/directory/shin-yi-chou" target="_blank">Shin-Yi Chou</a>.
+</p>
 
 <strong>Contact Information:</strong>
 
