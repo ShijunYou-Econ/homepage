@@ -21,7 +21,7 @@ publica:
     
 items:
   - title: Working Paper 
-    description: Aslim, Erkmen G., Wei Fu, Erdal Tekin, and <strong>Shijun You.</strong> From syringes to dishes&#58; Improving food security through vaccination. No. w31045. National Bureau of Economic Research, 2023. R&R to the Journal of Public Economics.  [<a href="https://www.nber.org/papers/w31045" target="_blank">NBER link</a>] 
+    description: Aslim, Erkmen G., Wei Fu, Erdal Tekin, and <strong>Shijun You.</strong> From syringes to dishes&#58; Improving food security through vaccination. No. w31045. National Bureau of Economic Research, 2023. R&R to the <i>Journal of Public Economics</i>.  [<a href="https://www.nber.org/papers/w31045" target="_blank">NBER link</a>] 
     numbering: 1
     abstract: This paper examines the impact of COVID-19 vaccination on food insufficiency in the United States, using data from the Household Pulse Survey. Our primary research design exploits variation in vaccine eligibility across states over time as an instrumental variable to address the endogeneity of vaccination decision. We find that vaccination had a substantial impact on food hardship by reducing the likelihood of food insufficiency by 24%, with even stronger effects among minority and financially disadvantaged populations. These results are robust to alternative specifications and the use of regression discontinuity as an alternative identification strategy. We also show that vaccine eligibility had a positive spillover impact on food assistance programs, notably reducing participation in the Supplemental Nutrition Assistance Program and the use of its benefits, suggesting that vaccination policies can help alleviate the government's fiscal burden during public health crises. Our analysis offers detailed insights into the potential mechanisms linking vaccination to food insufficiency. We demonstrate that vaccination yields changes in both material circumstances and financial expectations. Specifically, vaccination increases the use of regular income for spending needs and reduces reports of insufficient food due to unaffordability. Additionally, we find that vaccination improves financial optimism, reflected in expectations for future employment income loss and the ability to meet mortgage and debt obligations. Our findings are consistent with the notion that this optimism, along with labor market recovery, diminished the need for precautionary savings, reduced reliance on government assistance, and encouraged household spending on essential goods like food, ultimately lowering food insufficiency.
   - title: Working Paper
@@ -35,10 +35,10 @@ items:
 
 progress: 
   - title: Work in Progress
-    description: <strong>"Effects of Medical Cannabidiols Legalization on Labor Market."  (with Shin-Yi Chou and Wei Fu)</strong> 
+    description: <p>"Effects of Medical Cannabidiols Legalization on Labor Market."  (with Shin-Yi Chou and Wei Fu)</p> 
     numbering: 1
   - title: Work in Progress
-    description: <strong>"Racial Diversity and Prosocial Behaviors."  (with Shin-Yi Chou and Wei Fu)</strong>
+    description: <p>"Racial Diversity and Prosocial Behaviors."  (with Shin-Yi Chou and Wei Fu)</p>
     numbering: 2
 
 ---
