@@ -14,7 +14,7 @@ profile_picture:
 <strong>Research Interests</strong>
 
 <p>
-  Health Economics, Applied Econometrics
+  Health Economics, Public Economics, Applied Econometrics
 </p>
 
 <p>
