@@ -17,9 +17,9 @@ profile_picture:
   Health Economics, Public Economics, Applied Econometrics
 </p>
 
-<p>
-  Link to: <a href="./assets/Shijun You - CV.pdf" target="_blank">CV</a>.
-</p>
+<!-- <p>
+  Link to: <a href="./assets/Shijun You - CV.pdf" target="_blank">CV</a>. 
+</p> -->
 
 <p>
   Advisor: <a href="https://business.lehigh.edu/directory/shin-yi-chou" target="_blank">Shin-Yi Chou</a>.
